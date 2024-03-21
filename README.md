@@ -1,1 +1,1 @@
-# WebBrief--Chatbot-Voicebot-
+WikiBot enables seamless interaction with Wikipedia through chatbots powered by the LYZR SDK. Effortlessly explore topics, utilize pre-defined prompts for summaries, and pose inquiries directly within your browser. For inquiries or assistance, reach out to Lyzr.
